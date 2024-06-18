@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **manoj5047/manoj5047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there, I'm Sai Manoj 👋
@@ -8,7 +7,6 @@
 Welcome to my GitHub profile!
 
 ## 📊 LeetCode Stats
-
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/samsuga?theme=nord&font=baloo&extension=activity)
 
