@@ -1,7 +1,3 @@
-## Hi there 👋
-
-**manoj5047/manoj5047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Sai Manoj 👋
 
 Welcome to my GitHub profile!
@@ -14,7 +10,7 @@ Welcome to my GitHub profile!
 
 - **Languages:** Java, Kotlin, Dart
 - **Frameworks:** Android, Flutter, Springboot
-- **Tools:** Git, Firebase, GCP,
+- **Tools:** Git, Firebase, GCP, Android studio, IntelliJ
 
 ## 🏆 Achievements
 
