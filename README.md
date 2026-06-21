@@ -58,7 +58,7 @@ I build mission-critical Android software for a tabletop kidney dialysis machine
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayi%20Manoj%20Sugavasi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayi%20Manoj%20Sugavasi-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://in.linkedin.com/in/sai-m-24579790))
 [![Email](https://img.shields.io/badge/Email-smj31071995@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayimanojsugavasi@outlook.com)
 
 ---
